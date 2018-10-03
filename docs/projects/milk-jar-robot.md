@@ -1,0 +1,3 @@
+# Milk Jar Robot
+
+This project has moved to [Milk Carton Robot](/projects/milk-carton-robot)...

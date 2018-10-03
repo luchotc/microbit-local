@@ -1,0 +1,65 @@
+CACHE MANIFEST
+
+CACHE:
+/microbit-local/semantic.js
+/microbit-local/main.js
+/microbit-local/typescript.js
+/microbit-local/marked/marked.min.js
+/microbit-local/highlight.js/highlight.pack.js
+/microbit-local/lzma/lzma_worker-min.js
+/microbit-local/fuse.min.js
+/microbit-local/jquery.js
+/microbit-local/pxtlib.js
+/microbit-local/pxtcompiler.js
+/microbit-local/pxtblocks.js
+/microbit-local/pxtwinrt.js
+/microbit-local/pxteditor.js
+/microbit-local/pxtsim.js
+/microbit-local/pxtweb.js
+/microbit-local/blockly.css
+/microbit-local/semantic.css
+/microbit-local/rtlsemantic.css
+/microbit-local/custom.css
+/microbit-local/icons.css
+
+
+
+
+# blockly
+/microbit-local/blockly/blockly_compressed.js
+/microbit-local/blockly/blocks_compressed.js
+/microbit-local/blockly/msg/js/en.js
+/microbit-local/blockly/media/sprites.png
+/microbit-local/blockly/media/click.mp3
+/microbit-local/blockly/media/disconnect.wav
+/microbit-local/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/microbit-local/vs/loader.js
+/microbit-local/vs/base/worker/workerMain.js
+/microbit-local/vs/basic-languages/src/bat.js
+/microbit-local/vs/basic-languages/src/cpp.js
+/microbit-local/vs/editor/editor.main.css
+/microbit-local/vs/editor/editor.main.js
+/microbit-local/vs/editor/editor.main.nls.js
+/microbit-local/vs/language/json/jsonMode.js
+/microbit-local/vs/language/json/jsonWorker.js
+/microbit-local/vs/language/typescript/lib/typescriptServices.js
+/microbit-local/vs/language/typescript/src/mode.js
+/microbit-local/vs/language/typescript/src/worker.js
+
+# charts
+/microbit-local/smoothie/smoothie_compressed.js
+/microbit-local/images/Bars_black.gif
+
+# ai
+https://az416426.vo.msecnd.net/scripts/a/ai.0.js
+
+/microbit-local/worker.js
+# ver Thu Oct 04 2018 12:22:57 GMT-0300 (-03)
+@monacoworkerjs@
+
+/microbit-local/target.js
+  
+NETWORK:
+*
