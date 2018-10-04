@@ -2579,12 +2579,7 @@ var pxt;
     var BrowserUtils;
     (function (BrowserUtils) {
         function isIFrame() {
-            try {
-                return window && window.self !== window.top;
-            }
-            catch (e) {
-                return true;
-            }
+            return false;
         }
         BrowserUtils.isIFrame = isIFrame;
         function hasNavigator() {
